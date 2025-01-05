@@ -2,7 +2,7 @@ import dana from "/dana.webp";
 import shopeepay from "/shopeepay.png";
 import gopay from "/gopay.png";
 import bni from "/bni.png";
-import jenius from "/jenius.png";
+import jenius from "/jenius2.png";
 import mandiri from "/mandiri.png";
 import smbc from "/smbc.png";
 
@@ -12,7 +12,7 @@ const data = [
     name: "bni",
     number: "1182827795",
     username: "REFIANI LAILA MUHARAMI",
-    background: "bg-gradient-to-r from-teal-500 via-cyan-500 to-sky-500",
+    background: "bg-gradient-to-r from-indigo-400 to-cyan-400",
     icon: [
       {
         id: 11,
@@ -40,7 +40,7 @@ const data = [
     name: "jenius",
     number: "90320230557",
     username: "REFIANI LAILA MUHARAMI",
-    background: "bg-gradient-to-r from-sky-500 via-teal-500 to-lime-500",
+    background: "bg-gradient-to-r from-emerald-400 to-cyan-400",
     icon: [
       {
         id: 13,
@@ -50,7 +50,7 @@ const data = [
       {
         id: 14,
         logo: jenius,
-        class: "w-[96px] h-[48px]",
+        class: "pt-3 pb-1 w-[96px] h-[42px]",
       },
     ],
   },
@@ -59,7 +59,7 @@ const data = [
     name: "ewallet",
     number: "089636649116",
     username: null,
-    background: "bg-gradient-to-r from-lime-500 via-sky-500 to-teal-500",
+    background: "bg-gradient-to-r from-amber-500 to-pink-500",
     icon: [
       {
         id: 15,

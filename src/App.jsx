@@ -1,6 +1,7 @@
 import Card from "./component/card";
 import "./App.css";
 import { FaWallet } from "react-icons/fa";
+import { GiFlamingo } from "react-icons/gi";
 import toast, { Toaster } from "react-hot-toast";
 import data from "./data/data";
 
@@ -15,7 +16,7 @@ function App() {
     <>
       <Toaster position="bottom-center" reverseOrder={false} />
       <header className="mb-3 flex items-center ">
-        <FaWallet className="text-teal-400 w-[36px] h-[36px] mr-2" />
+        <GiFlamingo className="text-teal-400 w-[36px] h-[36px] mr-2" />
         <h1 className="bg-gradient-to-r from-teal-400 to-sky-400 bg-clip-text text-transparent text-4xl font-semibold ">
           Laila&apos;s Wallet
         </h1>
