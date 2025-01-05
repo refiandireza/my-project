@@ -11,7 +11,7 @@ const data = [
     id: 1,
     name: "bni",
     number: "1182827795",
-    username: "REFIANI LAILA MUHARAMI",
+    username: "REFIANI LAILA MUHARRAMI",
     background: "bg-gradient-to-r from-indigo-400 to-cyan-400",
     icon: [
       {
@@ -25,7 +25,7 @@ const data = [
     id: 2,
     name: "mandiri",
     number: "1090019951953",
-    username: "REFIANI LAILA MUHARAMI",
+    username: "REFIANI LAILA MUHARRAMI",
     background: "bg-gradient-to-r from-amber-500 via-yellow-500 to-lime-500",
     icon: [
       {
@@ -39,7 +39,7 @@ const data = [
     id: 3,
     name: "jenius",
     number: "90320230557",
-    username: "REFIANI LAILA MUHARAMI",
+    username: "REFIANI LAILA MUHARRAMI",
     background: "bg-gradient-to-r from-emerald-400 to-cyan-400",
     icon: [
       {
