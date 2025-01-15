@@ -5,6 +5,7 @@ import bni from "/bni.png";
 import jenius from "/jenius2.png";
 import mandiri from "/mandiri.png";
 import smbc from "/smbc.png";
+import bri from "/bri.png";
 
 const data = [
   {
@@ -32,6 +33,20 @@ const data = [
         id: 12,
         logo: mandiri,
         class: "w-[96px] h-[48px]",
+      },
+    ],
+  },
+  {
+    id: 5,
+    name: "bri",
+    number: "062101082323509",
+    username: "REFIANI LAILA MUHARRAMI",
+    background: "bg-gradient-to-r from-fuchsia-400 to-indigo-400",
+    icon: [
+      {
+        id: 18,
+        logo: bri,
+        class: "w-[110px] h-[48px]",
       },
     ],
   },

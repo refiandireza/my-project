@@ -1,6 +1,5 @@
 import Card from "./component/card";
 import "./App.css";
-import { FaWallet } from "react-icons/fa";
 import { GiFlamingo } from "react-icons/gi";
 import toast, { Toaster } from "react-hot-toast";
 import data from "./data/data";
@@ -8,7 +7,7 @@ import data from "./data/data";
 function App() {
   const handleClick = (data) => {
     navigator.clipboard.writeText(data);
-    toast.success("Text Copied");
+    toast.success("Number Copied");
   };
 
   // console.log(data);
